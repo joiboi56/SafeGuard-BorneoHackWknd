@@ -8,7 +8,7 @@ Team Members:
 * (224007) NUR SABRINA BALQIS BINTI KHAIRUL AZAHARY
 * (223022) ASMA’ MAISARAH BINTI AHMAD SAIBUDIN
 * (230477) ISMAIL BIN BAKHTIAR
-* () MUHAMMAD IRFAN DANISH
+* (227581) MUHAMMAD IRFAN DANISH BIN MOHD SHAMSURI
   
 Brief Summary: This project is about Disaster Resilience AI web platform specially for ASEAN community. With the help of AI, this web is equipped with personalized risk prediction,emergency assistance,misinformation detection and evacuation planning. The objectives are to reduce panic,promote informed decision-making during disasters situation and enhance preparedness.
 
