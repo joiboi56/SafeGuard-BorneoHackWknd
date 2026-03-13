@@ -14,4 +14,4 @@ Brief Summary: This project is about Disaster Resilience AI web platform special
 
 Prototype link: https://www.figma.com/make/EkpdcI1PzyocWdaYGtvAp7/Disaster-Management-App-Interface-Finalise?t=OACsPKxavZSs3IBP-1
 
-Video link: 
+Video link: https://youtu.be/O6sP01sS6tg
