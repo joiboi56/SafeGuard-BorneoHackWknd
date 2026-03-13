@@ -1,4 +1,4 @@
-# SafeGuard-BorneoHackWknd
+# DisasterShield-BorneoHackWkn
 Description: It is an app that can give real time data about common natural disasters around ASEAN
 
 Project Title: SafeGuard App
@@ -12,6 +12,6 @@ Team Members:
   
 Brief Summary: This project is about Disaster Resilience AI web platform specially for ASEAN community. With the help of AI, this web is equipped with personalized risk prediction,emergency assistance,misinformation detection and evacuation planning. The objectives are to reduce panic,promote informed decision-making during disasters situation and enhance preparedness.
 
-Prototype link: https://www.figma.com/make/H7glw4ZPeoHmqFHuuz2JHx/Disaster-Resillience?p=f&t=Waiyfn8zbwkKhFFd-0
+Prototype link: https://www.figma.com/make/EkpdcI1PzyocWdaYGtvAp7/Disaster-Management-App-Interface-Finalise?t=OACsPKxavZSs3IBP-1
 
 Video link: 
